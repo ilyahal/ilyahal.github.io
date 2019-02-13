@@ -5,7 +5,7 @@
       {
         "appID": "YR5ZR52B85.ru.ligastavok.app",
         "paths": [
-          "*"
+          "Registration/EMailConfirmation/*"
         ]
       }
     ]
