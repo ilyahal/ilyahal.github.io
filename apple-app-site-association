@@ -1,13 +1,94 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "YR5ZR52B85.ru.ligastavok.app",
-        "paths": [
-          "Registration/EMailConfirmation/*"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "PGB36VEQ8D.ru.yandex.blue.market",
+                "paths": [
+                    "/",
+                    "product/*",
+                    "bundle/*",
+                    "catalog/*",
+                    "catalog/root",
+                    "external/browser",
+                    "browser",
+                    "search",
+                    "deals",
+                    "morda",
+                    "bonus",
+                    "wishlist",
+                    "orders/*",
+                    "my/cart",
+                    "my/profile",
+                    "my/order/*",
+                    "my/order/*/map",
+                    "my/orders",
+                    "my/orders/*",
+                    "my/settings",
+                    "my/referee",
+                    "internal/catalogWithVendor/*",
+                    "special/bonusy",
+                    "tracking/*"
+                ]
+            },
+            {
+                "appID": "477EAT77S3.ru.yandex.blue.market",
+                "paths": [
+                    "/",
+                    "product/*",
+                    "bundle/*",
+                    "catalog/*",
+                    "catalog/root",
+                    "external/browser",
+                    "browser",
+                    "search",
+                    "deals",
+                    "morda",
+                    "bonus",
+                    "wishlist",
+                    "orders/*",
+                    "my/cart",
+                    "my/profile",
+                    "my/order/*",
+                    "my/order/*/map",
+                    "my/orders",
+                    "my/orders/*",
+                    "my/settings",
+                    "my/referee",
+                    "internal/catalogWithVendor/*",
+                    "special/bonusy",
+                    "tracking/*"
+                ]
+            },
+            {
+                "appID": "EK7Z26L6D4.ru.yandex.blue.market",
+                "paths": [
+                    "/",
+                    "product/*",
+                    "bundle/*",
+                    "catalog/*",
+                    "catalog/root",
+                    "external/browser",
+                    "browser",
+                    "search",
+                    "deals",
+                    "morda",
+                    "bonus",
+                    "wishlist",
+                    "orders/*",
+                    "my/cart",
+                    "my/profile",
+                    "my/order/*",
+                    "my/order/*/map",
+                    "my/orders",
+                    "my/orders/*",
+                    "my/settings",
+                    "my/referee",
+                    "internal/catalogWithVendor/*",
+                    "special/bonusy",
+                    "tracking/*"
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
